@@ -1,0 +1,134 @@
+/* body{
+    padding-left: 5%;
+    padding-right: 5%;
+} */
+
+.navbar{
+    background-color: whitesmoke;
+    margin-top: 2px;
+    color: #0c6464;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.10em;
+    font-weight: 400;    
+}
+
+.navbar-nav{
+    padding-left: 50%;
+    padding-right: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-item{
+    padding: 0 10px;
+}
+
+.nav-btn{
+    position: absolute;
+    right: 20px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: #f2570f;
+    border-width: none;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    align-items:center;
+    align-content: center;
+    font-size: 1.10em;
+
+}
+
+h1{
+    color: #0c6464;
+    padding-top: 15%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4.5em;
+    font-weight: 600;
+}
+
+#about{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.10em;
+    font-weight: 400;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.philo{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.10em;
+    font-weight: 400;
+    align-items: center;
+}
+
+
+
+#vision{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.div-vision{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#team{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90%;
+}
+
+h2{
+    color: #0c6464;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4em;
+    font-weight: 800;
+}
+
+.team-img{
+    border-radius: 100%;
+    width: 100px;
+}
+.team-member{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.icon{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    font-family: 'Josefin Sans', sans-serif;
+  }
